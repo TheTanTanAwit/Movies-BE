@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS django_db;
+USE django_db;
