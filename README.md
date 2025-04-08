@@ -1,8 +1,8 @@
 # Backend 
 ## Prerequisites
 To Proceed make sure you have these installed:
-1. Git
-2. Docker Desktop
+1. [Git](https://git-scm.com/)
+2. [Docker Desktop](https://www.docker.com/get-started/)
 
 ## Clone
 To start. Clone the project first with command: <br/>
